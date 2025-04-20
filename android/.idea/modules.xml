@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DemoTestCli.iml" filepath="$PROJECT_DIR$/.idea/modules/DemoTestCli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DemoTestCli.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DemoTestCli.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-881190810/DemoTestCli.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-881190810/DemoTestCli.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/447198001/DemoTestCli.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/447198001/DemoTestCli.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1574170699/DemoTestCli.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1574170699/DemoTestCli.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/911917914/DemoTestCli.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/911917914/DemoTestCli.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1668787186/DemoTestCli.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1668787186/DemoTestCli.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1665903951/DemoTestCli.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/1665903951/DemoTestCli.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-653157819/DemoTestCli.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-653157819/DemoTestCli.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/927729764/DemoTestCli.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/927729764/DemoTestCli.react-native-webview.iml" />
+    </modules>
+  </component>
+</project>

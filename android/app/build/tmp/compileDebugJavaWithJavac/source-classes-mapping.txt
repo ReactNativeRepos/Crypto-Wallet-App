@@ -1,0 +1,14 @@
+com/demotestcli/ReactNativeFlipper.java
+ com.demotestcli.ReactNativeFlipper
+ com.demotestcli.ReactNativeFlipper$1
+ com.demotestcli.ReactNativeFlipper$2
+ com.demotestcli.ReactNativeFlipper$2$1
+com/demotestcli/MainApplication.java
+ com.demotestcli.MainApplication
+ com.demotestcli.MainApplication$1
+com/demotestcli/MainActivity.java
+ com.demotestcli.MainActivity
+com/demotestcli/BuildConfig.java
+ com.demotestcli.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
